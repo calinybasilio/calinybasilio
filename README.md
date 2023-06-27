@@ -1,7 +1,7 @@
 
-Oi, eu sou a Caliny! Graduada em Sistemas de Informação pela UFVJM e Desenvolvedora Web Fullstack 😎
+Oi, eu sou a Caliny! 
 
-No momento, atuo como Analista de Customer Experience na @gamaacademy ✨
+Graduada em Sistemas de Informação pela UFVJM e Desenvolvedora Web Fullstack 👩🏽‍💻
 
 **Tecnologias e Ferramentas que já trabalhei**
 
