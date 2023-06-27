@@ -17,7 +17,7 @@ No momento, atuo como Analista de Customer Experience na @gamaacademy ✨
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
-### Eu estou estudando... 🧩
+**Eu estou estudando...** 🧩
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -26,14 +26,14 @@ No momento, atuo como Analista de Customer Experience na @gamaacademy ✨
 
 
 
-### GitHub Stats ⚡
+**GitHub Stats** ⚡
 <div>
 <a href="https://github.com/calinybasilio">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calinybasilio&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calinybasilio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Entre em contato comigo! 📭
+**Entre em contato comigo!** 📭
 <div>
 <a href="https://www.linkedin.com/in/caliny-bas%C3%ADlio-649b2b138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
