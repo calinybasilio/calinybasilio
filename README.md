@@ -1,7 +1,7 @@
 
 Oi, eu sou a Caliny! 
 
-Graduada em Sistemas de Informação pela UFVJM e Desenvolvedora Web Fullstack 👩🏽‍💻
+Graduada em Sistemas de Informação pela UFVJM e Desenvolvedora Back-end 👩🏽‍💻
 
 **Tecnologias e Ferramentas que já trabalhei**
 
